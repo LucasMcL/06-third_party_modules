@@ -1,0 +1,22 @@
+{
+  "name": "06-third_party_modules",
+  "version": "1.0.0",
+  "description": "## Introduction Open up the [Node.js][node_repl] [REPL][repl] and copy-paste the following line:",
+  "main": "flag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMcL/06-third_party_modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMcL/06-third_party_modules/issues"
+  },
+  "homepage": "https://github.com/LucasMcL/06-third_party_modules#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
